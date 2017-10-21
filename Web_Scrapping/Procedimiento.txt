@@ -1,0 +1,23 @@
+//abrir carpeta
+//abrir cmd
+//escribir:
+ npm init
+//se creara package.json
+//crear index.js manualmente.
+
+//Instalar librerias request, cheerio, y express//
+
+npm install --save request cheerio express 
+
+//Para correrlo es: //
+node index.js
+
+//y abrimos nuestro puerto en chrome localhost//
+
+http://localhost:8081/ 
+
+//Para dejar de correrlo usamos las teclas CTRL + c//
+
+EJEMPLO
+
+https://scotch.io/tutorials/scraping-the-web-with-node-js
